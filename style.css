@@ -1,0 +1,8 @@
+.required {
+    color: red;
+    font-weight: bold;
+}
+
+.row {
+    align-items: end;
+}
